@@ -1,74 +1,44 @@
-body{
-    background-color: whitesmoke;
-    min-height:100vh;
-
-}
 *{
     margin:0;
-    padding:0;
-    box-sizing:border-box;
+    padding: 0;
+    box-sizing: border-box;
 }
-.rat{
-    border: 2px solid transparent;
-    width:100vw;
-    height:60px;
-    position:relative;
+body{
+    background-color:white;
+    border:2px solid transparent;
+    text-align: center;
+
 }
-.man{
-    height:30px;
-    padding-left:2rem;
+header{
+    position: relative;
+
 }
-.mom{
+.three{
+    position: absolute;
+    right: 1%;
+}
+.two{
+    position: absolute;
+    right:15%;
+}
+.dne{
     position:absolute;
-    right:0;
-    padding-right:2rem;
-    color:gray;
-    justify-content: space-evenly;
+    right:29%;
 }
-.moo{
-    border:2px solid transparent;
-    width:50%;
+.maa{
+    margin-right:60%;
 }
-.yam{
-    padding-left:2rem;
-    font-size:3rem;
+.eee{
+    margin-top:90px;
 }
-.ram{
-    padding-left:2rem;
-    font-size:1rem;
+.ttt{
+    font-size:170%;
 }
-.mim{
-    height:30px;
-    margin-left:2rem;
-    width:15rem;
+.MAT{
+    color: rgb(100, 89, 89);
 }
-
-.mim::placeholder{color:rgb(189, 180, 180);
+.myo{
+    width:20rem;
+    height:2.5rem;
 }
-.mouth{
-    background-color: rgb(79, 79, 228);
-    color:white;
-    height:30px;
-    width:130px;
-    margin-left:1rem;
-    border: none;
-}
-.mmm{
-    border:2px solid transparent;
-    height:300px;
-    width:50%;
-    display: flex;
-    padding-left:10rem;
-
-}
-.imo{
-    display: flex;
-    
-}
-.nan{
-    height:300px;
-    width:100%;
-
-}
-
 
