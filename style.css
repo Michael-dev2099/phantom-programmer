@@ -15,15 +15,15 @@ header{
 }
 .three{
     position: absolute;
-    right: 1%;
+    margin-left:-10%;
 }
 .two{
     position: absolute;
-    right:15%;
+    margin-left:-23%;
 }
 .dne{
     position:absolute;
-    margin-left:-40%;
+    margin-left:-43%;
 }
 .maa{
     margin-right:60%;
@@ -40,5 +40,51 @@ header{
 .myo{
     width:20rem;
     height:2.5rem;
+}
+.mama{
+    background-color:  hsl(224, 93%, 58%);
+    color: white;
+    width:20rem;
+    height:2.5rem;
+    margin-top:1rem;
+}
+.dff{
+    margin-top:90px;
+}
+h2{
+    font-size:20px;
+}
+.lal{
+    padding-top:32px;
+    text-align:start;
+    padding-left:1.5rem;
+    color:  hsl(169, 7%, 50%);
+}
+.ser{
+    padding-top:20px;
+    text-align:start;
+    padding-left:1.5rem;
+    color:  hsl(169, 7%, 50%);
+    
+}
+.zxa{
+    padding-top:20px; 
+}
+.kls{
+    margin-bottom:-0.2rem;
+    padding-left:5px;
+}
+.pio{
+    border:2px solid black;
+    height:10rem;
+    width:75%;
+    margin-left:2.5rem;
+    margin-top:3rem;
+    background-color:whitesmoke;
+    
+}
+.wsat{
+    padding-right:13.5rem;
+    margin-top:1rem;
 }
 
